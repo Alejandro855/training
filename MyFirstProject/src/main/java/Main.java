@@ -4,7 +4,7 @@ public class Main {
 
 		System.out
 				.println("********* THIS IS MY FIRST QUICKSTART MAVEN PROGRAM **********");
-		System.out.println("Helooooo worllllldddd!!!!!");
+		System.out.println("Hellooooo worllllldddd!!!!!");
 
 	}
 
