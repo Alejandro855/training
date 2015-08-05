@@ -5,7 +5,7 @@ public class MyFirstUnitTest {
 	
 	@Test
 	public void test(){
-		System.out.println("+++++++++++++ THE TEST PASSED +++++++++++++++");
+		System.out.println("******************* THE TEST PASSED *******************");
 	}
 	
 }
