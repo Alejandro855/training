@@ -4,6 +4,7 @@ public class Main {
 
 		System.out
 				.println("********* THIS IS MY FIRST MAVEN PROGRAM **********");
+		System.out.println("Helooooo worllllldddd!!!!!");
 
 	}
 
